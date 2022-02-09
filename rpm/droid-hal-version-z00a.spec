@@ -1,5 +1,7 @@
 # Feel free to cleanup this file by removing comments, once you have memorised them ;)
 
+# rpm has to be lowercase
+%define rpm_device z00a
 %define device Z00A
 %define vendor asus
 
